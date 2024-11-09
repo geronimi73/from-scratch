@@ -1,2 +1,5 @@
 
 /llm/.ipynb_checkpoints
+.DS_Store
+/llm/wandb
+.DS_Store
